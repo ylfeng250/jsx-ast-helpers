@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/jsx-helpers.git"
+    "url": "git+https://github.com/ylfeng250/jsx-ast-helpers.git"
   },
   "keywords": [
     "jsx",
@@ -25,12 +25,16 @@
     "ast",
     "helper"
   ],
-  "author": "Your Name",
+  "author": "ylfeng250",
+  "email": "1119030015@qq.com",
+  "contributors": [
+    "ylfeng250"
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yourusername/jsx-helpers/issues"
+    "url": "https://github.com/ylfeng250/jsx-ast-helpers/issues"
   },
-  "homepage": "https://github.com/yourusername/jsx-helpers#readme",
+  "homepage": "https://github.com/ylfeng250/jsx-ast-helpers#readme",
   "devDependencies": {
     "@babel/cli": "^7.21.0",
     "@babel/core": "^7.21.0",
