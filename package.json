@@ -1,6 +1,6 @@
 {
-  "name": "jsx-helpers",
-  "version": "1.0.0",
+  "name": "jsx-ast-helpers",
+  "version": "0.0.1",
   "description": "A set of helper functions for processing JSX AST nodes with Babel and TypeScript",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
