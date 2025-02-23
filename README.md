@@ -1,4 +1,4 @@
-# jsx-helpers
+# jsx-ast-helpers
 
 A set of helper functions for processing JSX AST nodes using Babel and TypeScript.
 
@@ -13,13 +13,13 @@ A set of helper functions for processing JSX AST nodes using Babel and TypeScrip
 ## Installation
 
 ```bash
-npm install jsx-helpers
+npm install jsx-ast-helpers
 ```
 
 ## Usage
 
 ```typescript
-import { getJSXElementName } from 'jsx-helpers';
+import { getJSXElementName } from 'jsx-ast-helpers';
 
 // Example: Process JSX AST in a Babel plugin
 const elementName = getJSXElementName(jsxElement);
